@@ -215,6 +215,7 @@ h1, h2, p { margin: 0; }
 .hud__btn { width: 34px; height: 34px; border-radius: 50%; display: grid; place-items: center; cursor: pointer;
   background: var(--ruler); border: 1px solid rgba(255,255,255,.3); color: var(--text); }
 .hud__btn:hover { background: var(--cream); color: var(--ink); }
+.hud__btn--text { width: auto; display: inline-flex; gap: 6px; padding: 0 14px 0 10px; border-radius: 999px; font-weight: 600; font-size: 13px; white-space: nowrap; }
 .hud__btn svg { width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 2.2; stroke-linecap: round; }
 
 /* ===== Modals ===== */
