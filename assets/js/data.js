@@ -76,7 +76,7 @@ window.PORTFOLIO = {
       ],
     },
     {
-      role: 'Protege, Software Developer', org: 'Advanced Air Traffic Systems (M) Sdn. Bhd.', period: '2023 – 2024',
+      role: 'Software Developer', org: 'Advanced Air Traffic Systems (M) Sdn. Bhd.', period: '2023 – 2024',
       points: [
         'Developed a Travel Expenses system (frontend and backend) in C#, PHP, JavaScript and SQL Server.',
         'Gathered requirements with the project manager, IT and Finance teams.',
