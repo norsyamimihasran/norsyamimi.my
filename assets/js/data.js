@@ -59,7 +59,7 @@ window.PORTFOLIO = {
       ],
     },
     {
-      role: 'IT Assistant', org: 'Industrial Quality Management Sdn. Bhd.', period: 'Apr 2025 – Sep 2025',
+      role: 'IT Executive', org: 'Industrial Quality Management Sdn. Bhd.', period: 'Apr 2025 – Sep 2025',
       points: [
         'Project management for HRMS and ERP systems: plans, timelines and Gantt charts.',
         'Coordinated internal teams, vendors and clients; tracked milestones and progress.',
